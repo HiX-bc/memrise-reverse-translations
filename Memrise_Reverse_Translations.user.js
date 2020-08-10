@@ -4,6 +4,8 @@
 // @description    Reverse testing direction when using Memrise
 // @match          https://www.memrise.com/course/*/garden/*
 // @match          https://www.memrise.com/garden/review/*
+// @match          app.memrise.com/course/*/garden/*
+// @match          app.memrise.com/course/*/*/garden/*
 // @version        0.0.12
 // @updateURL      https://github.com/cooljingle/memrise-reverse-translations/raw/master/Memrise_Reverse_Translations.user.js
 // @downloadURL    https://github.com/cooljingle/memrise-reverse-translations/raw/master/Memrise_Reverse_Translations.user.js
